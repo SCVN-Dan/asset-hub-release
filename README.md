@@ -1,7 +1,7 @@
-# Asset Hub — bản phát hành
+# Asset Hub — releases
 
-Repo này chỉ chứa **file build** của Asset Hub (không có mã nguồn).
+This repo holds only the **built app** of Asset Hub (no source code).
 
-**Cài đặt (Mac chip Apple M1–M4):** vào [Releases](https://github.com/SCVN-Dan/asset-hub-release/releases/latest), tải `Asset-Hub-Installer.dmg` (~1 MB), mở và chạy **Cài Asset Hub** — trình cài tự tải bản mới nhất và cài vào Applications.
+**Install (Mac with Apple silicon, M1–M4):** go to [Releases](https://github.com/SCVN-Dan/asset-hub-release/releases/latest), download `Asset-Hub-Installer.dmg` (~1 MB), open it and run **Cài Asset Hub** — the installer downloads the latest version and installs it into Applications.
 
-Lần đầu macOS có thể chặn trình cài vì chưa được Apple chứng nhận: macOS 15 trở lên vào **Cài đặt hệ thống › Quyền riêng tư & Bảo mật › Vẫn mở**; macOS 14 trở xuống **chuột phải › Mở**.
+The first time, macOS may block the installer because it is not notarized by Apple: on macOS 15 or later go to **System Settings › Privacy & Security › Open Anyway**; on macOS 14 or earlier **right-click › Open**.
