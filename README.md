@@ -38,7 +38,7 @@ This repo holds only the **built app** (no source code). Download it from **[Rel
 
 Next time you open the app, it goes straight to the hub.
 
-Alternatively, choose **Sign in with a token** on the start screen and paste a fine-grained personal access token with read access to the asset repos.
+Alternatively, click **Use a token instead** at the bottom of the start screen and paste a fine-grained personal access token with read access to the asset repos.
 
 ## Update
 
